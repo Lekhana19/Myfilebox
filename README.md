@@ -15,6 +15,10 @@ User registration and authentication - Cognito
 
 https://myfilebox.store
 
+# New repository for deployed version code
+
+https://github.com/Lekhana19/Myfilebox-deployedversion.git
+
 # Demo Drive link :
 https://drive.google.com/drive/folders/1DWTUT-5uwnJoKK90ZW6BfrJ7QhxqXd6d?usp=sharing
 
