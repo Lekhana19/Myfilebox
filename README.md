@@ -13,7 +13,7 @@ User registration and authentication - Cognito
 
 # Architecture Diagram :
 
-[!Architecture Diagram](https://github.com/Lekhana19/Myfilebox/blob/bf944840d165c9e6f7ddb1a8b9fa7c84a6b034ff/myfilebox_architecture.jpg)
+[Architecture Diagram](https://github.com/Lekhana19/Myfilebox/blob/bf944840d165c9e6f7ddb1a8b9fa7c84a6b034ff/myfilebox_architecture.jpg)
 
 # Website link : 
 
